@@ -12,7 +12,15 @@ A high-performance, visually stunning C++ simulation that pits classic and moder
 
 Experience the convergence in real-time. Watch how different mathematical approaches tackle the infinite complexity of Pi.
 
-<video src="public/pi_race_20260509_051309.mp4" width="100%" controls autoplay loop muted></video>
+
+
+
+
+https://github.com/user-attachments/assets/86b8ca69-5532-4ee6-9978-b26173e42f42
+
+
+
+
 
 ---
 
