@@ -1,0 +1,18 @@
+# Binaries
+visualize
+pi_calc
+
+# Object files
+*.o
+src/**/*.o
+
+# OS files
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Recordings (except the demo one in public if desired, but usually ignored)
+*.mp4
+!public/*.mp4
